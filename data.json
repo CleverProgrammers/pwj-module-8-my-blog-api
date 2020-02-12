@@ -1,4 +1,10 @@
 [{
+    "id": "1581461442206",
+    "title": "This is a New Blog Post",
+    "content": "This is the content! ",
+    "post_image": "uploads/post-image-1581461442199.jpg",
+    "added_date": "1581461442206"
+}, {
     "id": "1581377760891",
     "title": "My first job as a developer",
     "content": "In college, I met a friend at a computer club who was showing a really cool application where you can swipe between different types of clothing!\nBeing very intrigued, I asked my friend if there is any way I can help out and join the team! After some thinking, he told me to finish an assignment, and then they will consider me. Over the weekend, I finished the assignment and was right away told I can join the team, though I would be working for free. That was completely fine for me! ",
